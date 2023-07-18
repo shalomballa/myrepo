@@ -1,0 +1,9 @@
+##################
+veuillez lire ceci avant de déployer l'application
+
+
+Seul l'administrateur peut enregistrer un beat, les autres utilisateurs peuvent juste les consulter.
+
+Le code est assez explicite et le strict minimum a été fait coté vue pour rendre le travail agréable à consulter.
+
+Merci :)
